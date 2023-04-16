@@ -1,4 +1,4 @@
-specification-pattner/target/
+specification-pattern/target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
